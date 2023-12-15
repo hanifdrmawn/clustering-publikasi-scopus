@@ -1,1 +1,1 @@
-# clustering-publikasi-scopus
+# Clustering Data Rujukan Publikasi Scopus Universitas Brawijaya Menggunakan Metode K-Means
